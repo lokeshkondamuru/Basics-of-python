@@ -1,1 +1,1 @@
-# data-types
+# Basics of python
